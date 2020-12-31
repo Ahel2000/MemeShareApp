@@ -11,6 +11,12 @@ Some screenshots of the app:
   <img src="https://github.com/Ahel2000/MemeShareApp/blob/master/Screenshots/ss2.jpg" height="600" width="300"/>
   <img src="https://github.com/Ahel2000/MemeShareApp/blob/master/Screenshots/ss3.jpg" height="600" width="300"/>
   </p>
+  
+  <p float="left">
+<img src="https://github.com/Ahel2000/MemeShareApp/blob/master/Screenshots/ss4.jpg" height="600" width="300"/>
+  <img src="https://github.com/Ahel2000/MemeShareApp/blob/master/Screenshots/ss5.jpg" height="600" width="300"/>
+  </p>
+ 
 
 
 
