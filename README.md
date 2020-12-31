@@ -4,6 +4,9 @@ This Meme Sharing App allows you to share random memes from the app to almost an
 
 API USED: https://meme-api.herokuapp.com/gimme
 
+Some screenshots of the app:
+<img src="https://github.com/Ahel2000/MemeShareApp/blob/master/Screenshots/ss1.jpg"/>
+
 
 
 
